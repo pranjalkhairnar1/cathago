@@ -30,6 +30,8 @@ npx sequelize-cli db:migrate
 npm start
 ```
 
+> **Note:** In `server.js` (line 79) of the backend, replace the existing API with the **Gemini API** for better functionality.
+
 ## Frontend Setup
 
 Open a new terminal and run:
@@ -40,3 +42,4 @@ npm run dev
 ```
 
 Your application should now be running successfully!
+
